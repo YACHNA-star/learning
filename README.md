@@ -1,9 +1,9 @@
 ### Data types
-Numeric Types:  int, complex (1j)
+Numeric Types:  int, complex ( 1j )
 
 Textual Type:  str
 
-Collection Types:  list [], tuple (), dict {"Key": value}, set {}
+Collection Types:  list [ ], tuple ( ), dict {"Key": value}, set { }
 
 Boolean Type:  bool (True or False)
 
